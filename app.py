@@ -1,5 +1,6 @@
 ## create a simple flask application
 from flask import Flask, render_template, url_for,request, redirect
+#This is push no1
 ## This is added in vs code
 ## create the flask app
 app=Flask(__name__)
